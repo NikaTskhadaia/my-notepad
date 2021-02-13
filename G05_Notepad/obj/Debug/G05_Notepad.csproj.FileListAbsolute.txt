@@ -1,0 +1,11 @@
+C:\Users\Nika\source\repos\G05_Notepad\G05_Notepad\bin\Debug\G05_Notepad.exe.config
+C:\Users\Nika\source\repos\G05_Notepad\G05_Notepad\bin\Debug\G05_Notepad.exe
+C:\Users\Nika\source\repos\G05_Notepad\G05_Notepad\bin\Debug\G05_Notepad.pdb
+C:\Users\Nika\source\repos\G05_Notepad\G05_Notepad\obj\Debug\G05_Notepad.csprojAssemblyReference.cache
+C:\Users\Nika\source\repos\G05_Notepad\G05_Notepad\obj\Debug\G05_Notepad.AboutForm.resources
+C:\Users\Nika\source\repos\G05_Notepad\G05_Notepad\obj\Debug\G05_Notepad.NotepadForm.resources
+C:\Users\Nika\source\repos\G05_Notepad\G05_Notepad\obj\Debug\G05_Notepad.Properties.Resources.resources
+C:\Users\Nika\source\repos\G05_Notepad\G05_Notepad\obj\Debug\G05_Notepad.csproj.GenerateResource.cache
+C:\Users\Nika\source\repos\G05_Notepad\G05_Notepad\obj\Debug\G05_Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Nika\source\repos\G05_Notepad\G05_Notepad\obj\Debug\G05_Notepad.exe
+C:\Users\Nika\source\repos\G05_Notepad\G05_Notepad\obj\Debug\G05_Notepad.pdb
